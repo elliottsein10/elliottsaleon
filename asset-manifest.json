@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/elliottsaleon/static/css/main.c0510bb8.css",
+    "main.js": "/elliottsaleon/static/js/main.b0333439.js",
+    "static/media/image.png": "/elliottsaleon/static/media/image.3eebca50d813d08c9322.png",
+    "static/media/pl-1.png": "/elliottsaleon/static/media/pl-1.8ad241aa5ec179847794.png",
+    "static/media/pl-2.png": "/elliottsaleon/static/media/pl-2.8ab4fc7e39359908e920.png",
+    "static/media/pl-3.png": "/elliottsaleon/static/media/pl-3.93b0c5abd986859d6a48.png",
+    "static/media/pl-4.png": "/elliottsaleon/static/media/pl-4.c6f76c71eb0a97401d59.png",
+    "static/media/pl-5.png": "/elliottsaleon/static/media/pl-5.78d05e2065ba136e855e.png",
+    "index.html": "/elliottsaleon/index.html",
+    "main.c0510bb8.css.map": "/elliottsaleon/static/css/main.c0510bb8.css.map",
+    "main.b0333439.js.map": "/elliottsaleon/static/js/main.b0333439.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0510bb8.css",
+    "static/js/main.b0333439.js"
+  ]
+}
